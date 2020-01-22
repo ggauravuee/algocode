@@ -1,0 +1,10 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+algocode/out
+
+
+# Ignore IntelliJ files
+.iml
+.idea
