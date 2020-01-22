@@ -3,5 +3,5 @@ algocode/out
 
 
 # Ignore IntelliJ files
-.iml
-.idea
+#.iml
+#.idea
